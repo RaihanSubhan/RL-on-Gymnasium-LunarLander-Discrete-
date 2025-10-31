@@ -1,4 +1,4 @@
-RL on Gymnasium (LunarLander Discrete)
+## RL on Gymnasium (LunarLander Discrete)
 
 ## Project Description
 This project implements a Deep Q-Network (DQN) reinforcement learning agent to solve the LunarLander-v3 environment from Gymnasium. The agent learns to successfully land a lunar lander between two flags using discrete actions.
